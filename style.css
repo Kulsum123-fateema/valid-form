@@ -1,0 +1,23 @@
+label{
+    font-weight: bolder;
+}
+button{
+    margin-left: 50%;
+    background-color: #16a8a8;
+    box-shadow: 20px;
+    border-radius: 20%;
+}
+
+
+h1{
+    font-size: calc(18px + 5vw);
+    text-align: left;
+    margin-top: 20px;
+    color: #16a8a8;
+
+}
+.orng{
+    color: orangered;
+    font-size: calc(16px+3vw);
+    letter-spacing: 5px;
+}
